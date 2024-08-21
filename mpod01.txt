@@ -1,0 +1,7 @@
+browsercheck.qualys.com
+dist2.qualys.com
+community.qualys.com
+staging.sslabs.com
+gateway.qualys.com
+sfapp.qualys.com
+boomi.qualys.com

@@ -1,0 +1,13 @@
+qualysguard.gov1.qualys.us
+qgadmin.gov1.qualys.us
+qualysapi.gov1.qualys.us
+monitoring.gov1.qualys.us
+distribution.gov1.qualys.us
+scanservice1.gov1.qualys.us
+download.gov1.qualys.us
+portal-bo.gov1.qualys.us
+portal.gov1.qualys.us
+qagpublic.gov1.qualys.us
+gateway.gov1.qualys.us
+debug.gov1.qualys.us
+cmsqagpublic.gov1.qualys.us

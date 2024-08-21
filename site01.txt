@@ -1,0 +1,14 @@
+www.qualys.jp
+pci.qualys.com
+www.qualys.com
+browsercheck.qualys.com
+mds.qualys.com
+freescan.qualys.com
+dist3.qualys.com
+dist2.qualys.com
+discussions.qualys.com
+drs.mp02.sjc01.qualys.com
+www.invoice.qualys.com
+pci-api.qualys.com
+docs.mp03.sjc01.qualys.com
+esm.qualys.com
